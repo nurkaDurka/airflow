@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="26b72691-a275-45ae-a08b-82962a76df5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="26b72691-a275-45ae-a08b-82962a76df5e" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/hint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,25 +16,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nurkaDurka"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nurkaDurka/PythonProject.git",
+    "accountId": "d0d2af44-d727-4c32-b893-f9d2818af7b9"
+  }
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000662178274649" />
-      <entry key="MS500" value="1.2093758138921924" />
-      <entry key="S2" value="2.427850819392234" />
-      <entry key="S5" value="3.2128920920696453" />
-      <entry key="S10" value="3.57334611088469" />
-      <entry key="S30" value="3.8496544546666684" />
-      <entry key="S60" value="3.92375860939433" />
-      <entry key="M2" value="3.9616080211527733" />
-      <entry key="M5" value="3.984577564103956" />
-      <entry key="M10" value="3.992277796304933" />
-      <entry key="M15" value="3.994849419579495" />
-      <entry key="M30" value="3.9974234866400438" />
-      <entry key="H1" value="3.9987114373754005" />
-      <entry key="H2" value="3.9993556421818863" />
-      <entry key="H4" value="3.999677801962032" />
-      <entry key="D1" value="3.999946297670003" />
-      <entry key="W1" value="3.9999923281734997" />
+      <entry key="MS100" value="1.3745174973008683" />
+      <entry key="MS500" value="2.480764218720589" />
+      <entry key="S2" value="5.296828347567349" />
+      <entry key="S5" value="8.687456183067379" />
+      <entry key="S10" value="10.868870494290796" />
+      <entry key="S30" value="13.862420035423042" />
+      <entry key="S60" value="16.727376624450066" />
+      <entry key="M2" value="19.723742037664696" />
+      <entry key="M5" value="22.51690471656124" />
+      <entry key="M10" value="23.685523675402276" />
+      <entry key="M15" value="24.106557861550428" />
+      <entry key="M30" value="24.54447451401409" />
+      <entry key="H1" value="24.769989518620346" />
+      <entry key="H2" value="24.884426884622684" />
+      <entry key="H4" value="24.942070724086964" />
+      <entry key="D1" value="24.990325234756018" />
+      <entry key="W1" value="24.998617402841056" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -58,23 +68,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.876661146843499" />
-      <entry key="MS500" value="1.1509146867824058" />
-      <entry key="S2" value="2.27846001728001" />
-      <entry key="S5" value="3.101805253686023" />
-      <entry key="S10" value="3.5045791388944907" />
-      <entry key="S30" value="3.823180216414853" />
-      <entry key="S60" value="3.910033300016482" />
-      <entry key="M2" value="3.9546197572422663" />
-      <entry key="M5" value="3.9817516454868493" />
-      <entry key="M10" value="3.9908596954525954" />
-      <entry key="M15" value="3.9939028735130733" />
-      <entry key="M30" value="3.9969496401228892" />
-      <entry key="H1" value="3.998474370607902" />
-      <entry key="H2" value="3.999237072903651" />
-      <entry key="H4" value="3.9996185083471354" />
-      <entry key="D1" value="3.999936414154034" />
-      <entry key="W1" value="3.9999909162121106" />
+      <entry key="MS100" value="1.051992827192331" />
+      <entry key="MS500" value="1.977751548040956" />
+      <entry key="S2" value="4.996168535898436" />
+      <entry key="S5" value="8.53489789452738" />
+      <entry key="S10" value="10.785258367870801" />
+      <entry key="S30" value="13.831004068651692" />
+      <entry key="S60" value="16.70875256735749" />
+      <entry key="M2" value="19.712514414474363" />
+      <entry key="M5" value="22.511614555440218" />
+      <entry key="M10" value="23.6827025154696" />
+      <entry key="M15" value="24.10463406308789" />
+      <entry key="M30" value="24.543490046518016" />
+      <entry key="H1" value="24.769491436694103" />
+      <entry key="H2" value="24.884176355111638" />
+      <entry key="H4" value="24.941945083834252" />
+      <entry key="D1" value="24.99030424227408" />
+      <entry key="W1" value="24.998614402627062" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -96,8 +106,13 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -148,12 +163,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1785669184935</updated>
-      <workItem from="1785669185956" duration="113000" />
+      <workItem from="1785669185956" duration="891000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1785669337653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785669337653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1785669204763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
