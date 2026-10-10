@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26b72691-a275-45ae-a08b-82962a76df5e" name="Changes" comment="Changed main.py" />
+    <list default="true" id="26b72691-a275-45ae-a08b-82962a76df5e" name="Changes" comment="Added Airflow to work!">
+      <change beforePath="$PROJECT_DIR$/airflow/logs/dag_processor/2026-10-10/dags-folder/print_dag.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/airflow/logs/dag_processor/2026-10-10/dags-folder/print_dag.py.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +28,12 @@
     &quot;assignee&quot;: &quot;nurkaDurka&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/nurkaDurka/PythonProject.git&quot;,
-    &quot;accountId&quot;: &quot;d0d2af44-d727-4c32-b893-f9d2818af7b9&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nurkaDurka/airflow-learning",
+    "accountId": "d0d2af44-d727-4c32-b893-f9d2818af7b9"
   }
-}</component>
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.096054784899185" />
@@ -229,7 +231,31 @@
       <option name="project" value="LOCAL" />
       <updated>1791666427770</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Airflow to work!">
+      <option name="closed" value="true" />
+      <created>1791666477938</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791666477938</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Airflow to work!">
+      <option name="closed" value="true" />
+      <created>1791666671016</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791666671016</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Airflow to work!">
+      <option name="closed" value="true" />
+      <created>1791666722731</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791666722731</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +276,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added calc.py" />
     <MESSAGE value="Changed main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed main.py" />
+    <MESSAGE value="Added Airflow to work!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Airflow to work!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1785669204763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
