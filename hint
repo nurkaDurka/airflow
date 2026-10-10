@@ -1,4 +1,0 @@
-Commit (Ctrl + K) — сохранить изменения в Git.
-Push (Ctrl + Shift + K) — отправить коммиты на GitHub.
-Pull (Git → Pull) — получить последние изменения с GitHub.
-Branches (Git → Branches) — создать, переключить или удалить ветку.
